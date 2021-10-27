@@ -16,5 +16,9 @@
   "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.4"
-  }
+  },
+  "engines": {
+    "node": "16.9.1"
+  },
+  "author": "Stephanie Albanese"
 }
